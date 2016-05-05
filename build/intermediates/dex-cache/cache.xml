@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/asumi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/Users/asumi/GsApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-alpha1-f90d34501ddfc7335ac78150583b70d8b6563ebb.jar" />
+    </item>
+    <item
+        jar="/Users/asumi/GsApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="/Users/asumi/GsApp/app/build/intermediates/pre-dexed/debug/classes-33bdf6af4d0f0f4ad50e8c84dc6d1e4745b73268.jar" />
+    </item>
+    <item
+        jar="/Users/asumi/GsApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="/Users/asumi/GsApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha1-dc1b9dcbe6d67a2b6a901a76aa8b5c5f24d8c544.jar" />
+    </item>
+    <item
+        jar="/Users/asumi/GsApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="/Users/asumi/GsApp/app/build/intermediates/pre-dexed/debug/classes-c1b3bb2dacf99fd0a28d67dde966edccfd12a2c6.jar" />
+    </item>
+    <item
+        jar="/Users/asumi/GsApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha1/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="/Users/asumi/GsApp/app/build/intermediates/pre-dexed/debug/classes-0694d8f0b6a34fb5949d1510c9aa3fa374bbe7ea.jar" />
+    </item>
+    <item
+        jar="/Users/asumi/GsApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha1/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="/Users/asumi/GsApp/app/build/intermediates/pre-dexed/debug/classes-11fce311b282aba8c4296fdf74bc5c42af3e4c97.jar" />
+    </item>
+
+</items>
